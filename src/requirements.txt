@@ -1,0 +1,3 @@
+opencv-python-headless>=4.10.0.0 #Headless saves RAM and CPU for the RaspBerry Pi
+numpy>=1.26.0
+Pillow>=10.0.0
